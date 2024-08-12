@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Task Manager",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A tool for managing tasks and improving productivity with various organizational features.",
+    url: "https://github.com/victorandraad/school-tasks", // Substitua com o URL real do seu projeto
   },
   {
-    title: "Web Development for Beginners",
+    title: "To-Do List App with Timer",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A simple to-do list application with a Pomodoro timer feature to help users manage their tasks and time effectively.",
+    url: "https://github.com/victorandraad/to-do-list-so-que-melhor", // Substitua com o URL real do seu projeto
   },
   {
-    title: "My Resume Site",
+    title: "Pokémon Marketplace API",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "API developed to handle user registration and post creation for a Pokémon marketplace platform.",
+    url: "https://github.com/victorandraad/MyMarketOTP", // Substitua com o URL real do seu projeto
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Image-Based Bot Automation",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "An automation bot that utilizes image recognition to perform tasks, demonstrating advanced automation capabilities.",
+    url: "https://github.com/victorandraad/auto-acc-lol", // Substitua com o URL real do seu projeto
   },
 ];
 
